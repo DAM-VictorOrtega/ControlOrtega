@@ -9,13 +9,14 @@ package refactorizar;
  *
  * @author dam
  */
-public class Refactorizar {
+public class Clase1 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola Mundo");
+        System.out.println(2+5);
     }
     
 }
